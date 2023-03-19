@@ -13,3 +13,4 @@ The historical daily returns of several portfolios:
 We use this analysis to create a custom portfolio of stocks and compare its performance to that 
 of the other portfolios, as well as the larger market (S&P TSX 60 Index).
 
+<img src="portfolio-analysis.png" alt="isolated" width="700"/>
